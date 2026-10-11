@@ -1,2 +1,4 @@
 venv
 .venv
+# Confidential dataset: never commit
+data/
